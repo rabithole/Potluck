@@ -1,0 +1,2 @@
+# Potluck
+Potluck planning app
